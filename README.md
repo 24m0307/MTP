@@ -38,10 +38,6 @@ pip install tensorflow numpy pandas opencv-python matplotlib scikit-learn tqdm
 On Kaggle, these are pre-installed. For local runs, ensure GPU support if available.
 Usage
 
-Clone the repository:
-git clone https://github.com/your-username/apple-leaf-segmentation.git
-cd apple-leaf-segmentation
-
 
 Download the dataset (if not using Kaggle):
 
